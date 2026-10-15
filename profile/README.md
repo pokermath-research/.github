@@ -2,7 +2,7 @@
 
 [![Research Portal](https://img.shields.io/badge/Portal-pokermath.org-0d6b3d.svg)](https://pokermath.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Open Science: Datasets](https://img.shields.io/badge/Data-Open%20Access-purple.svg)](https://pokermath.org/research/)
+[![Open Science: Datasets](https://img.shields.io/badge/Data-Open%20Access-purple.svg)](https://pokermath.org/en/research/)
 [![Affiliation](https://img.shields.io/badge/Institution-Applied%20Probability%20Institute-gold.svg)](https://pokermath.org/about/)
 
 The **PokerMath Research Group** is an independent quantitative research initiative affiliated with the **Applied Probability Institute**. We engineer deterministic mathematical models, open-access stochastic simulation engines, and game-theoretic benchmarks for imperfect information sequential games, with specialized focus on No-Limit Texas Hold'em and modern poker variant economies.
